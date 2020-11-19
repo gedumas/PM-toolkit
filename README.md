@@ -14,7 +14,11 @@ This is collective effort to showcase AI in Norway and bring a strong community 
 | Organisation | URL |
 | :--- | :--- |
 | Telia | https://www.teliacompany.com/en/about-the-company/public-policy/ai-ethics/ |
-| Ethical Advantage | https://ethicaladvantage.co/contact.html | 
+| Ethical Advantage | https://ethicaladvantage.co/contact.html |
+| Responsible AI @Microsoft | https://www.microsoft.com/en-us/ai/responsible-ai-resources?activetab=pivot1%3aprimaryr4 |
+| Ethics Guidelines for Trustworthy AI by @EU commission | https://ec.europa.eu/futurium/en/ethics-guidelines-trustworthy-ai/register-piloting-process-0 |
+| Assessment List for Trustworthy AI (ALTAI) by @EU commission | https://ec.europa.eu/digital-single-market/en/news/artificial-intelligence-commission-welcomes-opportunities-offered-final-assessment-list |
+
 
 ## List of public NO datasets 
 | Organisation | Description | Website |
