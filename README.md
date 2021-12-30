@@ -22,7 +22,7 @@ Product managers all around the world use a set of tools that allows them to eng
 - Asana
 - Atlassian
 - Kanban
--Trello
+- Trello
 
 
 ## PM Courses
