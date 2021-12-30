@@ -1,5 +1,5 @@
 # PM toolkit
-Product managers all around the world use a set of tools that allows them to engage and effectively work on the different projects. This is PM toolkit that would enable you to be an effective product manager. 
+Product managers all around the world use a set of tools to effectively work on the different projects. This is PM toolkit that would enable you to be an effective product manager. 
 
 ## Wireframing
 - Balsamiq
