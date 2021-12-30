@@ -14,7 +14,7 @@ Product managers all around the world use a set of tools that allows them to eng
 - Figma
 - Sketch
 - Glide
-- https://webflow.com/|
+- https://webflow.com
 
 
 
