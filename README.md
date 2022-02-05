@@ -8,17 +8,20 @@ Product managers all around the world use a set of tools to effectively work on 
 - https://idea-sandbox.com/blog/next-presentation-take-your-audience-on-a-heros-journey/
 
 ### How to tell a compelling story 
-Marshall Ganz (Personal Narrative)
-How to tell a story (Stanford GSB)
-Self, Us, Now (HBS)
-How to Win Friends and Influence People - Dale Carnegie
-The Prince - Machiavelli
+- Marshall Ganz (Personal Narrative)
+- How to tell a story (Stanford GSB)
+- [Self, Us, Now (HBS)´](https://dash.harvard.edu/bitstream/handle/1/30760283/Public-Narrative-Worksheet-Fall-2013-.pdf?sequence=1)
+- How to Win Friends and Influence People - Dale Carnegie
+- The Prince - Machiavelli
+- https://idea-sandbox.com/blog/next-presentation-take-your-audience-on-a-heros-journey/
 
 ### Presentations techniques:
 - Self, Us, and Now by Marshall Ganz
-- Watch iPod launch by Steve Jobs
-- Barack Obama at the 2004 DNC convention
+- [iPod launch by Steve Jobs] (https://www.youtube.com/watch?v=kN0SVBCJqLs)
+- [Back Obama at the 2004 DNC convention] (https://www.c-span.org/video/?c4571443/user-clip-story-obama-2004)
 - [Confident & Compelling presentations by Matt Abrahams](https://www.gsb.stanford.edu/insights/matt-abrahams-tips-techniques-more-confident-compelling-presentations) 
+- https://www.fastcompany.com/1680723/storytelling-and-influence-learn-how-get-what-you-want
+- 
 
 
 
