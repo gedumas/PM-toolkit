@@ -1,6 +1,19 @@
 # PM toolkit
 Product managers all around the world use a set of tools to effectively work on the different projects. This is PM toolkit that would enable you to be an effective product manager. 
 
+## Communication
+### Storytelling:
+https://www.fastcompany.com/1680723/storytelling-and-influence-learn-how-get-what-you-want
+https://42courses.medium.com/pixars-22-rules-of-storytelling-dc24162fe8ce
+https://idea-sandbox.com/blog/next-presentation-take-your-audience-on-a-heros-journey/
+
+### How to tell a compelling story 
+Marshall Ganz (Personal Narrative)
+How to tell a story (Stanford GSB)
+Self, Us, Now (HBS)
+
+
+
 ## Wireframing
 - Balsamiq
 - Lucidchart
