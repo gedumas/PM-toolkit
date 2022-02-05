@@ -3,14 +3,22 @@ Product managers all around the world use a set of tools to effectively work on 
 
 ## Communication
 ### Storytelling:
-https://www.fastcompany.com/1680723/storytelling-and-influence-learn-how-get-what-you-want
-https://42courses.medium.com/pixars-22-rules-of-storytelling-dc24162fe8ce
-https://idea-sandbox.com/blog/next-presentation-take-your-audience-on-a-heros-journey/
+- https://www.fastcompany.com/1680723/storytelling-and-influence-learn-how-get-what-you-want
+- https://42courses.medium.com/pixars-22-rules-of-storytelling-dc24162fe8ce
+- https://idea-sandbox.com/blog/next-presentation-take-your-audience-on-a-heros-journey/
 
 ### How to tell a compelling story 
 Marshall Ganz (Personal Narrative)
 How to tell a story (Stanford GSB)
 Self, Us, Now (HBS)
+How to Win Friends and Influence People - Dale Carnegie
+The Prince - Machiavelli
+
+### Presentations techniques:
+- Self, Us, and Now by Marshall Ganz
+- Watch iPod launch by Steve Jobs
+- Barack Obama at the 2004 DNC convention
+- [Confident & Compelling presentations by Matt Abrahams](https://www.gsb.stanford.edu/insights/matt-abrahams-tips-techniques-more-confident-compelling-presentations) 
 
 
 
