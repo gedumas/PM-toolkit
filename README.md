@@ -21,7 +21,7 @@ Product managers all around the world use a set of tools to effectively work on 
 - [Back Obama at the 2004 DNC convention] (https://www.c-span.org/video/?c4571443/user-clip-story-obama-2004)
 - [Confident & Compelling presentations by Matt Abrahams](https://www.gsb.stanford.edu/insights/matt-abrahams-tips-techniques-more-confident-compelling-presentations) 
 - https://www.fastcompany.com/1680723/storytelling-and-influence-learn-how-get-what-you-want
-- 
+
 
 
 
