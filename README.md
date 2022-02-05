@@ -10,7 +10,7 @@ Product managers all around the world use a set of tools to effectively work on 
 ### How to tell a compelling story 
 - Marshall Ganz (Personal Narrative)
 - How to tell a story (Stanford GSB)
-- [Self, Us, Now (HBS)´](https://dash.harvard.edu/bitstream/handle/1/30760283/Public-Narrative-Worksheet-Fall-2013-.pdf?sequence=1)
+- [Self, Us, Now (HBS)](https://dash.harvard.edu/bitstream/handle/1/30760283/Public-Narrative-Worksheet-Fall-2013-.pdf?sequence=1)
 - How to Win Friends and Influence People - Dale Carnegie
 - The Prince - Machiavelli
 - https://idea-sandbox.com/blog/next-presentation-take-your-audience-on-a-heros-journey/
