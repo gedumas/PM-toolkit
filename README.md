@@ -1,6 +1,19 @@
 # PM toolkit
 Product managers all around the world use a set of tools to effectively work on the different projects. This is PM toolkit that would enable you to be an effective product manager. 
 
+## Planning
+### Roadmaps 
+- https://heydovetail.notion.site/07a1f771e177426bb1e224add5dcf4e4?v=cb917ecfdc5047d99652de7415eb5b88
+- https://up.com.au/tree/
+- https://www.bulder.no/om-oss/roadmap/
+- No roadmaps @ Palantir https://twitter.com/gedisius/status/1693536684778917959?s=20
+
+
+
+
+
+
+
 ## Communication
 ### Storytelling:
 - https://www.fastcompany.com/1680723/storytelling-and-influence-learn-how-get-what-you-want
