@@ -6,7 +6,7 @@ Product managers all around the world use a set of tools to effectively work on 
 - https://heydovetail.notion.site/07a1f771e177426bb1e224add5dcf4e4?v=cb917ecfdc5047d99652de7415eb5b88
 - https://up.com.au/tree/
 - https://www.bulder.no/om-oss/roadmap/
-- No roadmaps @ Palantir https://twitter.com/gedisius/status/1693536684778917959?s=20
+- [No roadmaps @ Palantir](https://twitter.com/gedisius/status/1693536684778917959?s=20)
 
 
 
